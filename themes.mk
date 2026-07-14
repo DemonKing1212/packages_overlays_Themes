@@ -20,7 +20,8 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     HideSmartSpace \
     SmartSpaceOffset \
-    HideClock
+    HideClock \
+    SwitchSmile
 
 # Fonts
 PRODUCT_PACKAGES += \
